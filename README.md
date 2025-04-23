@@ -73,7 +73,7 @@ This also tends to be slow and fail at times.
 We want to have toasts show up whenever we receive a message from the server that a new client just
 signed up! It should look like something like:
 
-![Image of Prototype](prototype.png)
+![image](https://github.com/user-attachments/assets/98d6834c-07d1-4486-a6f9-02c3529792ef)
 
 It doesn't have to look exact.
 
